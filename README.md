@@ -1,1 +1,1 @@
-# mini_netflix
+# mini_hangman
